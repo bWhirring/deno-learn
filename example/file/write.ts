@@ -1,0 +1,1 @@
+Deno.writeTextFile('./test.json', 'as')
